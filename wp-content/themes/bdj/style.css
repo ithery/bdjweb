@@ -1,0 +1,24 @@
+/*
+Theme Name: BDJ
+Theme URI: http://example.com/bdj/
+description: >-
+  BDJ Theme
+Author: John Doe
+Author URI: http://example.com
+Template: talon
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+Text Domain: bdj
+*/
+
+@import url("../talon/style.css");
+
+.site-info {
+    display:none;
+}
+
+.fullwidth {
+    width:100%;
+}
